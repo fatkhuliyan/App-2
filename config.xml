@@ -1,0 +1,14 @@
+<?xml version="1.0" encodeing="UTF-8"?>
+<widget xmlns	= "http://www.w3.org/ns/widgets"
+	xmlns:gap	= "http://phonegap.com/ns/1.0"
+	id			= "com.mobile.pertemuan1"
+	versionCode	= "10"
+	version		= "1.0.0"	>
+	<name>Pertemuan 1</name>
+	<description>
+		Mata Kuliah Mobile Aplication 1
+	</description>
+	<author href="" email="">
+		STMIK Widya Pratama
+	</author>
+</widget>
