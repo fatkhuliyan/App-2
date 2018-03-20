@@ -1,4 +1,4 @@
-<?xml version="1.0" encodeing="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns	= "http://www.w3.org/ns/widgets"
 	xmlns:gap	= "http://phonegap.com/ns/1.0"
 	id			= "com.mobile.pertemuan1"
@@ -9,6 +9,6 @@
 		Mata Kuliah Mobile Aplication 1
 	</description>
 	<author href="" email="">
-		STMIK Widya Pratama
+		Fatkhul Iyan
 	</author>
 </widget>
